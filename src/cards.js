@@ -1,4 +1,5 @@
-const cards = {"3-Hump Lacooda":{"name":"3-Hump Lacooda","race":"Beast","attribute":"EARTH","atk":500,"def":1500,"level":3},
+const cards = {
+"3-Hump Lacooda":{"name":"3-Hump Lacooda","race":"Beast","attribute":"EARTH","atk":500,"def":1500,"level":3},
 "30,000-Year White Turtle":{"name":"30,000-Year White Turtle","race":"Aqua","attribute":"WATER","atk":1250,"def":2100,"level":5},
 "4-Starred Ladybug of Doom":{"name":"4-Starred Ladybug of Doom","race":"Insect","attribute":"WIND","atk":800,"def":1200,"level":3},
 "7 Colored Fish":{"name":"7 Colored Fish","race":"Fish","attribute":"WATER","atk":1800,"def":800,"level":4},
@@ -984,7 +985,7 @@ const cards = {"3-Hump Lacooda":{"name":"3-Hump Lacooda","race":"Beast","attribu
 "Condemned Maiden":{"name":"Condemned Maiden","race":"Fairy","attribute":"LIGHT","atk":100,"def":2000,"level":4},
 "Condemned Witch":{"name":"Condemned Witch","race":"Fairy","attribute":"DARK","atk":100,"def":2000,"level":4},
 "Conductor of Nephthys":{"name":"Conductor of Nephthys","race":"Spellcaster","attribute":"WIND","atk":2000,"def":0,"level":2},
-"Confitras de Nouvelles":{"name":"Confitras de Nouvelles","race":"Warrior","attribute":"DARK","atk":800,"def":1850,"level":2},
+"Confiras de Nouvelles":{"name":"Confiras de Nouvelles","race":"Warrior","attribute":"DARK","atk":800,"def":1850,"level":2},
 "Confronting the \"C\"":{"name":"Confronting the \"C\"","race":"Insect","attribute":"EARTH","atk":1100,"def":2500,"level":5},
 "Consecrated Light":{"name":"Consecrated Light","race":"Fairy","attribute":"LIGHT","atk":0,"def":0,"level":1},
 "Constellar Acubens":{"name":"Constellar Acubens","race":"Machine","attribute":"LIGHT","atk":800,"def":2000,"level":4},
@@ -4323,6 +4324,7 @@ const cards = {"3-Hump Lacooda":{"name":"3-Hump Lacooda","race":"Beast","attribu
 "Poêlétis de Nouvelles":{"name":"Poêlétis de Nouvelles","race":"Beast-Warrior","attribute":"DARK","atk":1200,"def":1850,"level":3},
 "Poison Draw Frog":{"name":"Poison Draw Frog","race":"Aqua","attribute":"WATER","atk":100,"def":100,"level":2},
 "Poison Mummy":{"name":"Poison Mummy","race":"Zombie","attribute":"EARTH","atk":1000,"def":1800,"level":4},
+"Poissonniere de Nouvelles":{"name":"Poissonniere de Nouvelles","race":"Fairy","attribute":"DARK","atk":700,"def":1700,"level":1},
 "Poki Draco":{"name":"Poki Draco","race":"Dragon","attribute":"FIRE","atk":200,"def":100,"level":3},
 "Poly-Chemicritter Dioxogre":{"name":"Poly-Chemicritter Dioxogre","race":"Fiend","attribute":"DARK","atk":2800,"def":200,"level":8},
 "Poly-Chemicritter Hydragon":{"name":"Poly-Chemicritter Hydragon","race":"Dragon","attribute":"WATER","atk":200,"def":2800,"level":8},
@@ -5915,8 +5917,9 @@ const cards = {"3-Hump Lacooda":{"name":"3-Hump Lacooda","race":"Beast","attribu
 "Vanquish Soul - Razen":{"name":"Vanquish Soul - Razen","race":"Warrior","attribute":"FIRE","atk":1800,"def":1500,"level":4},
 "Vanquish Soul Dr. Madlove":{"name":"Vanquish Soul Dr. Madlove","race":"Fiend","attribute":"DARK","atk":1200,"def":2000,"level":4},
 "Vanquish Soul Heavy Borger":{"name":"Vanquish Soul Heavy Borger","race":"Machine","attribute":"DARK","atk":2500,"def":1500,"level":7},
+"Vanquish Soul Jiaolong":{"name":"Vanquish Soul Jiaolong","race":"Wyrm","attribute":"FIRE","atk":2400,"def":2100,"level":5},
 "Vanquish Soul Kaiser Varius":{"name":"Vanquish Soul Kaiser Varius","race":"Dragon","attribute":"EARTH","atk":3000,"def":1500,"level":8},
-"Vanquish Soul Panthera":{"name":"Vanquish Soul Panthera","race":"Beast-Warrior","attribute":"EARTH","atk":1700,"def":1900,"level":4},
+"Vanquish Soul Pantera":{"name":"Vanquish Soul Pantera","race":"Beast-Warrior","attribute":"EARTH","atk":1700,"def":1900,"level":4},
 "Vanquish Soul Pluton HG":{"name":"Vanquish Soul Pluton HG","race":"Zombie","attribute":"FIRE","atk":0,"def":0,"level":6},
 "Vanquish Soul Razen":{"name":"Vanquish Soul Razen","race":"Warrior","attribute":"FIRE","atk":1800,"def":1500,"level":4},
 "Vaylantz Buster Baron":{"name":"Vaylantz Buster Baron","race":"Machine","attribute":"FIRE","atk":800,"def":800,"level":2},
@@ -6336,5 +6339,6 @@ const cards = {"3-Hump Lacooda":{"name":"3-Hump Lacooda","race":"Beast","attribu
 "ZW - Sylphid Wing":{"name":"ZW - Sylphid Wing","race":"Beast","attribute":"LIGHT","atk":800,"def":1600,"level":4},
 "ZW - Tornado Bringer":{"name":"ZW - Tornado Bringer","race":"Dragon","attribute":"WIND","atk":1300,"def":1800,"level":5},
 "ZW - Ultimate Shield":{"name":"ZW - Ultimate Shield","race":"Aqua","attribute":"EARTH","atk":0,"def":2000,"level":4},
-"ZW - Unicorn Spear":{"name":"ZW - Unicorn Spear","race":"Beast","attribute":"LIGHT","atk":1900,"def":0,"level":4}}
+"ZW - Unicorn Spear":{"name":"ZW - Unicorn Spear","race":"Beast","attribute":"LIGHT","atk":1900,"def":0,"level":4}
+}
 export default cards;
