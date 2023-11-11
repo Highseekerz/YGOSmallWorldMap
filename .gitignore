@@ -16,6 +16,7 @@ package-lock.json
 
 # production
 /build
+deploy.bat
 
 # misc
 .DS_Store
