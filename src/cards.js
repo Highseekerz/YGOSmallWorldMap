@@ -3496,7 +3496,7 @@ const cards = {
 "Mannadium Fearless":{"name":"Mannadium Fearless","race":"Fairy","attribute":"EARTH","atk":0,"def":2000,"level":2},
 "Mannadium Meek":{"name":"Mannadium Meek","race":"Fairy","attribute":"WATER","atk":0,"def":1800,"level":2},
 "Mannadium Riumheart":{"name":"Mannadium Riumheart","race":"Warrior","attribute":"LIGHT","atk":1500,"def":2100,"level":4},
-"Mannadium Trid":{"name":"Mannadium Trid","race":"Fairy","attribute":"FIRE","atk":0,"def":1500,"level":2},
+"Mannadium Torrid":{"name":"Mannadium Torrid","race":"Fairy","attribute":"FIRE","atk":0,"def":1500,"level":2},
 "Manticore of Darkness":{"name":"Manticore of Darkness","race":"Beast-Warrior","attribute":"FIRE","atk":2300,"def":1000,"level":6},
 "Manticore of Smashing":{"name":"Manticore of Smashing","race":"Beast-Warrior","attribute":"FIRE","atk":2300,"def":1000,"level":6},
 "Mara of the Nordic Alfar":{"name":"Mara of the Nordic Alfar","race":"Spellcaster","attribute":"DARK","atk":1000,"def":500,"level":2},

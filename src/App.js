@@ -5,7 +5,7 @@ import cardDB from './cardDB';
 
 const cards = cardDB.get();
 
-const recentUpdate = '싱귤래리티 워리어즈'
+const recentUpdate = '비기닝 오브 넥스트져니'
 
 function App() {
 

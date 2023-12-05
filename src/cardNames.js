@@ -11821,6 +11821,9 @@ const cardNames = {
 "부에리야베스 드 누밸즈":["Vanquish Soul Jiaolong"],
 "콩피라스 드 누밸즈":["Confiras de Nouvelles"],
 "VS 판테라":["Vanquish Soul Pantera"],
-"VS 플루톤HG":["Vanquish Soul Pluton HG"]
+"VS 플루톤HG":["Vanquish Soul Pluton HG"],
+"미궁에 숨은 섀도우 구울":["Shadow Ghoul of the Labyrinth"],
+"미궁의 중마전차":["Labyrinth Heavy Tank"],
+"마나둠 토리드":["Mannadium Torrid"]
 }
 export default cardNames;
