@@ -2414,6 +2414,7 @@ const cards = {
 "Gokipole":{"name":"Gokipole","race":"Insect","attribute":"EARTH","atk":1000,"def":1200,"level":3},
 "Gokipon":{"name":"Gokipon","race":"Insect","attribute":"EARTH","atk":800,"def":800,"level":2},
 "Gold Gadget":{"name":"Gold Gadget","race":"Machine","attribute":"LIGHT","atk":1700,"def":800,"level":4},
+"Gold Pride - Assassinator":{"name":"Gold Pride - Assassinator","race":"Machine","attribute":"EARTH","atk":1800,"def":800,"level":5},
 "Gold Pride - Captain Carrie":{"name":"Gold Pride - Captain Carrie","race":"Fiend","attribute":"WATER","atk":900,"def":1700,"level":3},
 "Gold Pride - Leon":{"name":"Gold Pride - Leon","race":"Warrior","attribute":"WIND","atk":1500,"def":1200,"level":3},
 "Gold Pride - Nytro Head":{"name":"Gold Pride - Nytro Head","race":"Pyro","attribute":"FIRE","atk":2300,"def":2600,"level":8},
@@ -6339,6 +6340,9 @@ const cards = {
 "ZW - Sylphid Wing":{"name":"ZW - Sylphid Wing","race":"Beast","attribute":"LIGHT","atk":800,"def":1600,"level":4},
 "ZW - Tornado Bringer":{"name":"ZW - Tornado Bringer","race":"Dragon","attribute":"WIND","atk":1300,"def":1800,"level":5},
 "ZW - Ultimate Shield":{"name":"ZW - Ultimate Shield","race":"Aqua","attribute":"EARTH","atk":0,"def":2000,"level":4},
-"ZW - Unicorn Spear":{"name":"ZW - Unicorn Spear","race":"Beast","attribute":"LIGHT","atk":1900,"def":0,"level":4}
+"ZW - Unicorn Spear":{"name":"ZW - Unicorn Spear","race":"Beast","attribute":"LIGHT","atk":1900,"def":0,"level":4},
+"Dreaming Reality of Nemleria, Realized":{"name":"Dreaming Reality of Nemleria, Realized","race":"Fairy","attribute":"LIGHT","atk":1500,"def":3000,"level":10},
+"Nemleria Dream Devourer - Reveil":{"name":"Nemleria Dream Devourer - Reveil","race":"Beast","attribute":"DARK","atk":2500,"def":2500,"level":10},
+"Superheavy Samurai Security":{"name":"Superheavy Samurai Security","race":"Machine","attribute":"EARTH","atk":500,"def":1500,"level":4}
 }
 export default cards;
