@@ -6343,6 +6343,17 @@ const cards = {
 "ZW - Unicorn Spear":{"name":"ZW - Unicorn Spear","race":"Beast","attribute":"LIGHT","atk":1900,"def":0,"level":4},
 "Dreaming Reality of Nemleria, Realized":{"name":"Dreaming Reality of Nemleria, Realized","race":"Fairy","attribute":"LIGHT","atk":1500,"def":3000,"level":10},
 "Nemleria Dream Devourer - Reveil":{"name":"Nemleria Dream Devourer - Reveil","race":"Beast","attribute":"DARK","atk":2500,"def":2500,"level":10},
-"Superheavy Samurai Security":{"name":"Superheavy Samurai Security","race":"Machine","attribute":"EARTH","atk":500,"def":1500,"level":4}
+"Superheavy Samurai Security":{"name":"Superheavy Samurai Security","race":"Machine","attribute":"EARTH","atk":500,"def":1500,"level":4},
+"T.G. Rocket Salamander":{"name":"T.G. Rocket Salamander","race":"Pyro","attribute":"FIRE","atk":600,"def":600,"level":1},
+"Diabellstar the Black Witch":{"name":"Diabellstar the Black Witch","race":"Spellcaster","attribute":"DARK","atk":2500,"def":2000,"level":7},
+"Snake-Eyes Flamberge Dragon":{"name":"Snake-Eyes Flamberge Dragon","race":"Dragon","attribute":"FIRE","atk":3000,"def":2500,"level":8},
+"Snake-Eyes Poplar":{"name":"Snake-Eyes Poplar","race":"Pyro","attribute":"FIRE","atk":700,"def":200,"level":1},
+"Courageous Crimson Chevalier Bradamante":{"name":"Courageous Crimson Chevalier Bradamante","race":"Warrior","attribute":"FIRE","atk":500,"def":200,"level":1},
+"Wheel Synchron":{"name":"Wheel Synchron","race":"Machine","attribute":"LIGHT","atk":800,"def":1000,"level":5},
+"Snake-Eye Ash":{"name":"Snake-Eye Ash","race":"Pyro","attribute":"FIRE","atk":800,"def":1000,"level":1},
+"Infernoble Knight Ricciardetto":{"name":"Infernoble Knight Ricciardetto","race":"Warrior","attribute":"FIRE","atk":500,"def":0,"level":1},
+"Infernoble Knight Turpin":{"name":"Infernoble Knight Turpin","race":"Warrior","attribute":"FIRE","atk":1400,"def":1700,"level":4},
+"Snake-Eye Birch":{"name":"Snake-Eye Birch","race":"Pyro","attribute":"FIRE","atk":0,"def":2100,"level":1},
+"Snake-Eye Oak":{"name":"Snake-Eye Oak","race":"Pyro","attribute":"FIRE","atk":900,"def":200,"level":1}
 }
 export default cards;

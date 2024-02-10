@@ -11830,6 +11830,18 @@ const cardNames = {
 "베다=카란타":["Veda Karantha"],
 "몽현의 침희-네무렐리아 레아리제":["Dreaming Reality of Nemleria, Realized"],
 "네무렐리아의 꿈포식귀-레베이유":["Nemleria Dream Devourer - Reveil"],
-"초중무사 도우C-N":["Superheavy Samurai Security"]
+"초중무사 도우C-N":["Superheavy Samurai Security"],
+"레볼루션 싱크론":["Revolution Synchron"],
+"TG 로켓 샐러맨더":["T.G. Rocket Salamander"],
+"흑마녀 디아벨스타":["Diabellstar the Black Witch"],
+"스네이크아이즈 플랑베르쥬 드래곤":["Snake-Eyes Flamberge Dragon"],
+"스네이크아이즈 포프루스":["Snake-Eyes Poplar"],
+"홍연의 여걸-브라다만테":["Courageous Crimson Chevalier Bradamante"],
+"휠 싱크론":["Wheel Synchron"],
+"스네이크아이 엑셀":["Snake-Eye Ash"],
+"불꽃성기사-리차르데토":["Infernoble Knight Ricciardetto"],
+"불꽃성기사-튀르팽":["Infernoble Knight Turpin"],
+"스네이크아이 와이트버치":["Snake-Eye Birch"],
+"스네이크아이 오크":["Snake-Eye Oak"]
 }
 export default cardNames;
