@@ -6354,6 +6354,20 @@ const cards = {
 "Infernoble Knight Ricciardetto":{"name":"Infernoble Knight Ricciardetto","race":"Warrior","attribute":"FIRE","atk":500,"def":0,"level":1},
 "Infernoble Knight Turpin":{"name":"Infernoble Knight Turpin","race":"Warrior","attribute":"FIRE","atk":1400,"def":1700,"level":4},
 "Snake-Eye Birch":{"name":"Snake-Eye Birch","race":"Pyro","attribute":"FIRE","atk":0,"def":2100,"level":1},
-"Snake-Eye Oak":{"name":"Snake-Eye Oak","race":"Pyro","attribute":"FIRE","atk":900,"def":200,"level":1}
+"Snake-Eye Oak":{"name":"Snake-Eye Oak","race":"Pyro","attribute":"FIRE","atk":900,"def":200,"level":1},
+"비전 레조네이터":{"name":"비전 레조네이터","race":"Fiend","attribute":"DARK","atk":400,"def":400,"level":2},
+"지박수인 스톤 스위퍼":{"name":"지박수인 스톤 스위퍼","race":"Fiend","attribute":"DARK","atk":1600,"def":1600,"level":5},
+"티스티나의 반신":{"name":"티스티나의 반신","race":"Aqua","attribute":"LIGHT","atk":2000,"def":0,"level":10},
+"소울 레조네이터":{"name":"소울 레조네이터","race":"Fiend","attribute":"FIRE","atk":500,"def":200,"level":3},
+"본 데몬":{"name":"본 데몬","race":"Fiend","attribute":"DARK","atk":1800,"def":0,"level":4},
+"결정신 티스티나":{"name":"결정신 티스티나","race":"Aqua","attribute":"LIGHT","atk":2000,"def":3000,"level":10},
+"티스티나의 서자":{"name":"티스티나의 서자","race":"Aqua","attribute":"WATER","atk":200,"def":0,"level":1},
+"시체계탑 피니스테라":{"name":"시체계탑 피니스테라","race":"Zombie","attribute":"WATER","atk":1000,"def":2800,"level":10},
+"티스티나의 보초":{"name":"티스티나의 보초","race":"Aqua","attribute":"WIND","atk":1200,"def":1400,"level":3},
+"티스티나의 귀환자":{"name":"티스티나의 귀환자","race":"Aqua","attribute":"FIRE","atk":500,"def":500,"level":2},
+"티스티나의 장신":{"name":"티스티나의 장신","race":"Aqua","attribute":"DARK","atk":2000,"def":0,"level":5},
+"지박수인 그랜드 키퍼":{"name":"지박수인 그랜드 키퍼","race":"Fiend","attribute":"DARK","atk":300,"def":300,"level":1},
+"지박수인 라인 워커":{"name":"지박수인 라인 워커","race":"Fiend","attribute":"DARK","atk":800,"def":1100,"level":3},
+"티스티나의 엽견":{"name":"티스티나의 엽견","race":"Aqua","attribute":"EARTH","atk":1800,"def":700,"level":4}
 }
 export default cards;

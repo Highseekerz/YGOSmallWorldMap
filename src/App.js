@@ -5,7 +5,7 @@ import cardDB from './cardDB';
 
 const cards = cardDB.get();
 
-const recentUpdate = '라이드 인투 더 퓨처'
+const recentUpdate = '리턴 오브 더 킹'
 
 function App() {
 
@@ -108,7 +108,7 @@ function Content(props) {
             {localStorage.getItem('deck')? localStorage.getItem('deck') : ""}
           </Form.Control>
           <Form.Text id='mapHelp' muted>
-            한 줄에 메인 덱 몬스터 하나씩을 입력하세요. {recentUpdate} 이전 마스터 듀얼에 업데이트된 카드까지 지원합니다.
+            한 줄에 메인 덱 몬스터 하나씩을 입력하세요. 마스터 듀얼의 {recentUpdate} 셀렉션 팩까지 지원합니다.
           </Form.Text>
         </Row>
         <Row style={{marginTop:'10px'}}>
