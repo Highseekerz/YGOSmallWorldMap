@@ -11842,6 +11842,7 @@ const cardNames = {
 "불꽃성기사-리차르데토":["Infernoble Knight Ricciardetto"],
 "불꽃성기사-튀르팽":["Infernoble Knight Turpin"],
 "스네이크아이 와이트버치":["Snake-Eye Birch"],
-"스네이크아이 오크":["Snake-Eye Oak"]
+"스네이크아이 오크":["Snake-Eye Oak"],
+"잴러맨더 캐털라이저":["Zalamander Catalyzer"]
 }
 export default cardNames;

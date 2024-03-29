@@ -6368,6 +6368,19 @@ const cards = {
 "티스티나의 장신":{"name":"티스티나의 장신","race":"Aqua","attribute":"DARK","atk":2000,"def":0,"level":5},
 "지박수인 그랜드 키퍼":{"name":"지박수인 그랜드 키퍼","race":"Fiend","attribute":"DARK","atk":300,"def":300,"level":1},
 "지박수인 라인 워커":{"name":"지박수인 라인 워커","race":"Fiend","attribute":"DARK","atk":800,"def":1100,"level":3},
-"티스티나의 엽견":{"name":"티스티나의 엽견","race":"Aqua","attribute":"EARTH","atk":1800,"def":700,"level":4}
+"티스티나의 엽견":{"name":"티스티나의 엽견","race":"Aqua","attribute":"EARTH","atk":1800,"def":700,"level":4},
+"언체인드소울 샤바라":{"name":"언체인드소울 샤바라","race":"Fiend","attribute":"FIRE","atk":2000,"def":1500,"level":6},
+"화령매사 히타":{"name":"화령매사 히타","race":"Spellcaster","attribute":"FIRE","atk":1850,"def":1500,"level":5},
+"볼캐닉 엠페러":{"name":"볼캐닉 엠페러","race":"Pyro","attribute":"FIRE","atk":3100,"def":2400,"level":8},
+"볼캐닉 트루퍼":{"name":"볼캐닉 트루퍼","race":"Pyro","attribute":"FIRE","atk":1000,"def":1000,"level":3},
+"아쇼카 필라":{"name":"아쇼카 필라","race":"Rock","attribute":"EARTH","atk":0,"def":2200,"level":3},
+"라뷰린스 버틀러 아리아스":{"name":"라뷰린스 버틀러 아리아스","race":"Fiend","attribute":"DARK","atk":1500,"def":2500,"level":6},
+"언체인드소울 슈야마":{"name":"언체인드소울 슈야마","race":"Fiend","attribute":"WATER","atk":2000,"def":1500,"level":6},
+"사악한 화염 제왕 테스탈로스":{"name":"사악한 화염 제왕 테스탈로스","race":"Pyro","attribute":"FIRE","atk":3000,"def":1000,"level":10},
+"볼캐닉 림파이어":{"name":"볼캐닉 림파이어","race":"Pyro","attribute":"FIRE","atk":300,"def":0,"level":1},
+"BK 프로모터":{"name":"BK 프로모터","race":"Warrior","attribute":"FIRE","atk":1700,"def":800,"level":4},
+"BK 어퍼커터":{"name":"BK 어퍼커터","race":"Warrior","attribute":"FIRE","atk":1600,"def":200,"level":4},
+"BK 치프세컨드":{"name":"BK 치프세컨드","race":"Warrior","attribute":"FIRE","atk":500,"def":2000,"level":4},
+"카브레라 스톤":{"name":"카브레라 스톤","race":"Rock","attribute":"EARTH","atk":0,"def":0,"level":1}
 }
 export default cards;
