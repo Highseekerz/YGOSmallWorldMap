@@ -6348,8 +6348,6 @@ const cards = {
 "Diabellstar the Black Witch":{"name":"Diabellstar the Black Witch","race":"Spellcaster","attribute":"DARK","atk":2500,"def":2000,"level":7},
 "Snake-Eyes Flamberge Dragon":{"name":"Snake-Eyes Flamberge Dragon","race":"Dragon","attribute":"FIRE","atk":3000,"def":2500,"level":8},
 "Snake-Eyes Poplar":{"name":"Snake-Eyes Poplar","race":"Pyro","attribute":"FIRE","atk":700,"def":200,"level":1},
-"Courageous Crimson Chevalier Bradamante":{"name":"Courageous Crimson Chevalier Bradamante","race":"Warrior","attribute":"FIRE","atk":500,"def":200,"level":1},
-"Wheel Synchron":{"name":"Wheel Synchron","race":"Machine","attribute":"LIGHT","atk":800,"def":1000,"level":5},
 "Snake-Eye Ash":{"name":"Snake-Eye Ash","race":"Pyro","attribute":"FIRE","atk":800,"def":1000,"level":1},
 "Infernoble Knight Ricciardetto":{"name":"Infernoble Knight Ricciardetto","race":"Warrior","attribute":"FIRE","atk":500,"def":0,"level":1},
 "Infernoble Knight Turpin":{"name":"Infernoble Knight Turpin","race":"Warrior","attribute":"FIRE","atk":1400,"def":1700,"level":4},
@@ -6381,6 +6379,23 @@ const cards = {
 "BK 프로모터":{"name":"BK 프로모터","race":"Warrior","attribute":"FIRE","atk":1700,"def":800,"level":4},
 "BK 어퍼커터":{"name":"BK 어퍼커터","race":"Warrior","attribute":"FIRE","atk":1600,"def":200,"level":4},
 "BK 치프세컨드":{"name":"BK 치프세컨드","race":"Warrior","attribute":"FIRE","atk":500,"def":2000,"level":4},
-"카브레라 스톤":{"name":"카브레라 스톤","race":"Rock","attribute":"EARTH","atk":0,"def":0,"level":1}
+"카브레라 스톤":{"name":"카브레라 스톤","race":"Rock","attribute":"EARTH","atk":0,"def":0,"level":1},
+"대익의 바포메트":{"name":"대익의 바포메트","race":"Fiend","attribute":"DARK","atk":1400,"def":1800,"level":5},
+"미러 스워드나이트":{"name":"미러 스워드나이트","race":"환상마족","attribute":"LIGHT","atk":1900,"def":300,"level":4},
+"R-ACE 프리벤터":{"name":"R-ACE 프리벤터","race":"Machine","attribute":"FIRE","atk":2800,"def":2800,"level":8},
+"나이트메어 매지션":{"name":"나이트메어 매지션","race":"환상마족","attribute":"DARK","atk":2500,"def":2000,"level":7},
+"베다=우파니샤드":{"name":"베다=우파니샤드","race":"Warrior","attribute":"DARK","atk":0,"def":4000,"level":12},
+"아라히메의 미캉코":{"name":"아라히메의 미캉코","race":"Fairy","attribute":"LIGHT","atk":0,"def":0,"level":9},
+"환조의 왕 가젤":{"name":"환조의 왕 가젤","race":"Beast","attribute":"EARTH","atk":1500,"def":1200,"level":4},
+"콘필드 코아틀":{"name":"콘필드 코아틀","race":"환상마족","attribute":"WIND","atk":500,"def":1700,"level":4},
+"에볼더 리오스":{"name":"에볼더 리오스","race":"Dinosaur","attribute":"FIRE","atk":1600,"def":400,"level":4},
+"천극휘사-베어트론α":{"name":"천극휘사-베어트론α","race":"Machine","attribute":"WATER","atk":2000,"def":700,"level":7},
+"헬카이트프테라":{"name":"헬카이트프테라","race":"Dinosaur","attribute":"WIND","atk":1400,"def":1000,"level":4},
+"비서스=삼사라":{"name":"비서스=삼사라","race":"Fairy","attribute":"LIGHT","atk":1500,"def":2100,"level":4},
+"쌍두룡 킹렉스":{"name":"쌍두룡 킹렉스","race":"Dinosaur","attribute":"EARTH","atk":1600,"def":1200,"level":6},
+"용왕 킹렉스":{"name":"용왕 킹렉스","race":"Dinosaur","attribute":"EARTH","atk":3200,"def":1200,"level":9},
+"얼터가이스트 멀위스프":{"name":"얼터가이스트 멀위스프","race":"Spellcaster","attribute":"Light","atk":1500,"def":0,"level":3},
+"얼터가이스트 페리네트레이터":{"name":"얼터가이스트 페리네트레이터","race":"Spellcaster","attribute":"FIRE","atk":500,"def":300,"level":1},
+"에볼드 포리스":{"name":"에볼드 포리스","race":"Reptile","attribute":"FIRE","atk":900,"def":300,"level":2}
 }
 export default cards;

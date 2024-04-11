@@ -11684,7 +11684,6 @@ const cardNames = {
 "적식초 건널목":["Red Vinegar Crossing","Sour Scheduling - Red Vinegar Vamoose"],
 "위박광석-서머나이트":["Intimidating Ore - Summonite","Threatening Ore - Summonite"],
 "숲의 성수 키티테일":["Kittytail, Mystical Beast of the Forest"],
-"홍연의 여걸-브라다만테":["Brave Beauty of Ruby Regard - Bradamante"],
 "푸티카의 충혹마":["Traptrix Pudica"],
 "키노의 충혹마":["Traptrix Arachnocampa"],
 "충혹의 동산":["Traptrip Garden","Traptrix Orchard"],
