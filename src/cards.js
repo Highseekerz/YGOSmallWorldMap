@@ -6396,6 +6396,25 @@ const cards = {
 "용왕 킹렉스":{"name":"용왕 킹렉스","race":"Dinosaur","attribute":"EARTH","atk":3200,"def":1200,"level":9},
 "얼터가이스트 멀위스프":{"name":"얼터가이스트 멀위스프","race":"Spellcaster","attribute":"Light","atk":1500,"def":0,"level":3},
 "얼터가이스트 페리네트레이터":{"name":"얼터가이스트 페리네트레이터","race":"Spellcaster","attribute":"FIRE","atk":500,"def":300,"level":1},
-"에볼드 포리스":{"name":"에볼드 포리스","race":"Reptile","attribute":"FIRE","atk":900,"def":300,"level":2}
+"에볼드 포리스":{"name":"에볼드 포리스","race":"Reptile","attribute":"FIRE","atk":900,"def":300,"level":2},
+"샐러맨그레이트 오브 파이어":{"name":"샐러맨그레이트 오브 파이어","race":"Cyberse","attribute":"FIRE","atk":800,"def":800,"level":2},
+"호루스의 영광-임세티":{"name":"호루스의 영광-임세티","race":"Spellcaster","attribute":"DARK","atk":3000,"def":1800,"level":8},
+"호루스의 선도-하피":{"name":"호루스의 선도-하피","race":"Beast-Warrior","attribute":"WIND","atk":2400,"def":1600,"level":8},
+"명해합룡-메멘토랄 테쿠틀리카":{"name":"명해합룡-메멘토랄 테쿠틀리카","race":"Wyrm","attribute":"EARTH","atk":5000,"def":5000,"level":11},
+"메멘토 엔위치":{"name":"메멘토 엔위치","race":"Spellcaster","attribute":"DARK","atk":800,"def":1000,"level":3},
+"호루스의 흑염신":{"name":"호루스의 흑염신","race":"Dragon","attribute":"FIRE","atk":3000,"def":1800,"level":8},
+"코드 오브 소울":{"name":"코드 오브 소울","race":"Cyberse","attribute":"FIRE","atk":500,"def":500,"level":3},
+"아그니멀-캔들":{"name":"아그니멀-캔들","race":"Pyro","attribute":"FIRE","atk":1700,"def":0,"level":4},
+"샐러맨그레이트 티거":{"name":"샐러맨그레이트 티거","race":"Cyberse","attribute":"FIRE","atk":2000,"def":500,"level":5},
+"호루스의 축복-두아무테프":{"name":"호루스의 축복-두아무테프","race":"Beast","attribute":"WATER","atk":0,"def":0,"level":8},
+"호루스의 가호-케벤세누프":{"name":"호루스의 가호-케벤세누프","race":"Winged Beast","attribute":"EARTH","atk":2500,"def":2000,"level":8},
+"메멘토 씨호스":{"name":"메멘토 씨호스","race":"Beast","attribute":"EARTH","atk":1350,"def":1600,"level":5},
+"메멘토 다크 스워드":{"name":"메멘토 다크 스워드","race":"Warrior","attribute":"DARK","atk":1800,"def":1500,"level":4},
+"이엠:피 그레냐드":{"name":"이엠:피 그레냐드","race":"Cyberse","attribute":"DARK","atk":800,"def":0,"level":2},
+"샐러맨그레이트 위젤":{"name":"샐러맨그레이트 위젤","race":"Cyberse","attribute":"FIRE","atk":700,"def":1400,"level":3},
+"메멘토 혼 드래곤":{"name":"메멘토 혼 드래곤","race":"Dragon","attribute":"DARK","atk":2850,"def":2350,"level":8},
+"메멘토 메이스":{"name":"메멘토 메이스","race":"Fairy","attribute":"LIGHT","atk":400,"def":300,"level":1},
+"메멘토 고블린":{"name":"메멘토 고블린","race":"Fiend","attribute":"DARK","atk":400,"def":400,"level":1},
+"메멘토 우라몬":{"name":"메멘토 우라몬","race":"Fiend","attribute":"DARK","atk":550,"def":400,"level":2}
 }
 export default cards;
