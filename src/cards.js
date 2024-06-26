@@ -6415,6 +6415,21 @@ const cards = {
 "메멘토 혼 드래곤":{"name":"메멘토 혼 드래곤","race":"드래곤족","attribute":"어둠","atk":2850,"def":2350,"level":8},
 "메멘토 메이스":{"name":"메멘토 메이스","race":"천사족","attribute":"빛","atk":400,"def":300,"level":1},
 "메멘토 고블린":{"name":"메멘토 고블린","race":"악마족","attribute":"어둠","atk":400,"def":400,"level":1},
-"메멘토 우라몬":{"name":"메멘토 우라몬","race":"악마족","attribute":"어둠","atk":550,"def":400,"level":2}
+"메멘토 우라몬":{"name":"메멘토 우라몬","race":"악마족","attribute":"어둠","atk":550,"def":400,"level":2},
+"블랙홀 드래곤":{"name":"블랙홀 드래곤","race":"드래곤족","attribute":"어둠","atk":3000,"def":2000,"level":8},
+"성염왕 가루도닉스":{"name":"성염왕 가루도닉스","race":"비행야수족","attribute":"화염","atk":2700,"def":1700,"level":8},
+"염왕신수 기린":{"name":"염왕신수 기린","race":"야수족","attribute":"화염","atk":2400,"def":200,"level":8},
+"진염왕 포닉스":{"name":"진염왕 포닉스","race":"비행야수족","attribute":"화염","atk":500,"def":200,"level":1},
+"셀레트리체 바르모니카":{"name":"셀레트리체 바르모니카","race":"마법사족","attribute":"물","atk":1200,"def":1200,"level":4},
+"패왕문의 마술사":{"name":"패왕문의 마술사","race":"마법사족","attribute":"빛","atk":2500,"def":2000,"level":7},
+"포톤 델타 윙":{"name":"포톤 델타 윙","race":"기계족","attribute":"빛","atk":1800,"def":900,"level":4},
+"미래의 주-키아노스":{"name":"미래의 주-키아노스","race":"기계족","attribute":"빛","atk":500,"def":1500,"level":1},
+"염왕비 우르카닉스":{"name":"염왕비 우르카닉스","race":"비행야수족","attribute":"화염","atk":800,"def":2000,"level":4},
+"패왕권룡 라이트브룸":{"name":"패왕권룡 라이트브룸","race":"드래곤족","attribute":"빛","atk":1200,"def":1800,"level":4},
+"안젤로 바르모니카":{"name":"안젤로 바르모니카","race":"천사족","attribute":"어둠","atk":1200,"def":2100,"level":4},
+"데모네 바르모니카":{"name":"데모네 바르모니카","race":"악마족","attribute":"빛","atk":1200,"def":2100,"level":4},
+"펜듈럼 위치":{"name":"펜듈럼 위치","race":"마법사족","attribute":"땅","atk":1500,"def":800,"level":3},
+"SPYRAL-더블페이크":{"name":"SPYRAL-더블페이크","race":"악마족","attribute":"빛","atk":1400,"def":600,"level":4},
+"염왕수 하누만":{"name":"염왕수 하누만","race":"야수전사족","attribute":"화염","atk":1600,"def":200,"level":4}
 }
 export default cards;

@@ -5,7 +5,7 @@ import cardDB from './cardDB';
 
 const cards = cardDB.get();
 
-const recentUpdate = '리바이브드 레기온'
+const recentUpdate = '로드 오브 디멘션'
 
 function App() {
 
