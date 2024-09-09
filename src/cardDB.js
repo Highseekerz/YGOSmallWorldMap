@@ -11,6 +11,7 @@ const cardDB = {
         return Object.keys(cardNames).filter((name)=>(name.slice(-2) !== '토큰')).sort();
     },
     translate : (name) => {
+        name = name.replace(/－/g, '-')
         if(cardNames[name]) {
             cardNames[name].forEach(n => {
                 if(cards[n]) {
