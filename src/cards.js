@@ -6539,6 +6539,20 @@ const cards = {
 "트리콜로르 가제트":{"name":"트리콜로르 가제트","race":"기계족","attribute":"땅","atk":1300,"def":1100,"level":4},
 "강철의 대마인 골고일":{"name":"강철의 대마인 골고일","race":"환상마족","attribute":"땅","atk":1800,"def":3200,"level":10},
 "데몬 광래":{"name":"데몬 광래","race":"악마족","attribute":"어둠","atk":2500,"def":1200,"level":6},
-"마시마슈마론":{"name":"마시마슈마론","race":"천사족","attribute":"빛","atk":300,"def":500,"level":3}
+"마시마슈마론":{"name":"마시마슈마론","race":"천사족","attribute":"빛","atk":300,"def":500,"level":3},
+"원죄의 디아벨제":{"name":"원죄의 디아벨제","race":"환상마족","attribute":"빛","atk":2500,"def":2000,"level":7},
+"기믹 퍼핏-리틀 솔저즈":{"name":"기믹 퍼핏-리틀 솔저즈","race":"기계족","attribute":"어둠","atk":0,"def":0,"level":4},
+"하얀 숲의 아스테랴":{"name":"하얀 숲의 아스테랴","race":"마법사족","attribute":"빛","atk":0,"def":0,"level":2},
+"하얀 숲의 실비":{"name":"하얀 숲의 실비","race":"마법사족","attribute":"빛","atk":1500,"def":200,"level":4},
+"트릭스터 후디":{"name":"트릭스터 후디","race":"천사족","attribute":"빛","atk":600,"def":1800,"level":2},
+"기믹 퍼핏-블러디 돌":{"name":"기믹 퍼핏-블러디 돌","race":"기계족","attribute":"어둠","atk":400,"def":1400,"level":8},
+"하얀 숲의 리제트":{"name":"하얀 숲의 리제트","race":"마법사족","attribute":"빛","atk":0,"def":0,"level":2},
+"하얀 숲의 루시아":{"name":"하얀 숲의 루시아","race":"마법사족","attribute":"빛","atk":800,"def":1500,"level":4},
+"트릭스터 아쿠아엔젤":{"name":"트릭스터 아쿠아엔젤","race":"천사족","attribute":"물","atk":0,"def":0,"level":4},
+"성룡 부르미나상":{"name":"성룡 부르미나상","race":"드래곤족","attribute":"빛","atk":200,"def":1800,"level":2},
+"사이코 프로세서":{"name":"사이코 프로세서","race":"사이킥족","attribute":"어둠","atk":0,"def":1500,"level":3},
+"기믹 퍼핏-킬러 나이트":{"name":"기믹 퍼핏-킬러 나이트","race":"기계족","attribute":"어둠","atk":1800,"def":500,"level":4},
+"마지코로이다르 조르":{"name":"마지코로이다르 조르","race":"물족","attribute":"물","atk":400,"def":300,"level":2},
+"기믹 퍼핏-캐틀 스크림":{"name":"기믹 퍼핏-캐틀 스크림","race":"기계족","attribute":"어둠","atk":2000,"def":2000,"level":8}
 }
 export default cards;
