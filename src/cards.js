@@ -6522,6 +6522,23 @@ const cards = {
 "유에프오라이트":{"name":"유에프오라이트","race":"환상마족","attribute":"화염","atk":1500,"def":1500,"level":8},
 "버서크 데몬":{"name":"버서크 데몬","race":"악마족","attribute":"어둠","atk":2000,"def":0,"level":6},
 "인페르니티 퀸":{"name":"인페르니티 퀸","race":"악마족","attribute":"어둠","atk":300,"def":900,"level":3},
-"종글구울의 환술사":{"name":"종글구울의 환술사","race":"환상마족","attribute":"어둠","atk":2000,"def":0,"level":4}
+"종글구울의 환술사":{"name":"종글구울의 환술사","race":"환상마족","attribute":"어둠","atk":2000,"def":0,"level":4},
+"파괴룡 간드라G":{"name":"파괴룡 간드라G","race":"드래곤족","attribute":"어둠","atk":0,"def":0,"level":8},
+"스네이크아이즈 디아벨스타":{"name":"스네이크아이즈 디아벨스타","race":"마법사족","attribute":"화염","atk":2800,"def":2600,"level":8},
+"나이트메어 어프렌티스":{"name":"나이트메어 어프렌티스","race":"환상마족","attribute":"어둠","atk":2000,"def":1700,"level":6},
+"용장주-비브리얼":{"name":"용장주-비브리얼","race":"환상마족","attribute":"어둠","atk":3000,"def":0,"level":10},
+"환주의 가희 르프랭":{"name":"환주의 가희 르프랭","race":"천사족","attribute":"빛","atk":1600,"def":800,"level":4},
+"투화염의 검사":{"name":"투화염의 검사","race":"전사족","attribute":"화염","atk":1800,"def":1600,"level":4},
+"비룡염 사라만도라":{"name":"비룡염 사라만도라","race":"드래곤족","attribute":"화염","atk":700,"def":1600,"level":2},
+"환화염의 검사-미라지 스워드맨-":{"name":"환화염의 검사-미라지 스워드맨-","race":"전사족","attribute":"화염","atk":2800,"def":2000,"level":8},
+"사일런트 스워드맨 제로":{"name":"사일런트 스워드맨 제로","race":"전사족","attribute":"빛","atk":1000,"def":1000,"level":4},
+"사일런트 매지션 제로":{"name":"사일런트 매지션 제로","race":"마법사족","attribute":"빛","atk":1000,"def":1000,"level":4},
+"검은 마술사-블랙 매지션":{"name":"검은 마술사-블랙 매지션","race":"마법사족","attribute":"어둠","atk":2500,"def":2100,"level":7},
+"환주의 가희 쿠플레":{"name":"환주의 가희 쿠플레","race":"천사족","attribute":"빛","atk":1200,"def":2000,"level":5},
+"탈론즈 오브 슈리렌":{"name":"탈론즈 오브 슈리렌","race":"환상마족","attribute":"빛","atk":2100,"def":2050,"level":6},
+"트리콜로르 가제트":{"name":"트리콜로르 가제트","race":"기계족","attribute":"땅","atk":1300,"def":1100,"level":4},
+"강철의 대마인 골고일":{"name":"강철의 대마인 골고일","race":"환상마족","attribute":"땅","atk":1800,"def":3200,"level":10},
+"데몬 광래":{"name":"데몬 광래","race":"악마족","attribute":"어둠","atk":2500,"def":1200,"level":6},
+"마시마슈마론":{"name":"마시마슈마론","race":"천사족","attribute":"빛","atk":300,"def":500,"level":3}
 }
 export default cards;
