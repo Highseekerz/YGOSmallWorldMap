@@ -6455,6 +6455,24 @@ const cards = {
 "전극수 아니온":{"name":"전극수 아니온","race":"번개족","attribute":"빛","atk":300,"def":100,"level":2},
 "미라와 매치노코":{"name":"미라와 매치노코","race":"마법사족","attribute":"화염","atk":0,"def":0,"level":1},
 "홍련왕 플레임 크라임":{"name":"홍련왕 플레임 크라임","race":"악마족","attribute":"화염","atk":1700,"def":300,"level":3},
-"디브전":{"name":"디브전","race":"기계족","attribute":"화염","atk":200,"def":200,"level":2}
+"디브전":{"name":"디브전","race":"기계족","attribute":"화염","atk":200,"def":200,"level":2},
+"순성한 수호자 로가디언":{"name":"순성한 수호자 로가디언","race":"전사족","attribute":"빛","atk":2050,"def":2500,"level":7},
+"레스큐 고슴도치":{"name":"레스큐 고슴도치","race":"야수족","attribute":"땅","atk":300,"def":100,"level":4},
+"RR-블룸 벌쳐":{"name":"RR-블룸 벌쳐","race":"비행야수족","attribute":"어둠","atk":300,"def":1900,"level":4},
+"순성의 기도하는 손 로":{"name":"순성의 기도하는 손 로","race":"천사족","attribute":"빛","atk":50,"def":2050,"level":1},
+"순성의 용현희 사피라":{"name":"순성의 용현희 사피라","race":"드래곤족","attribute":"빛","atk":2500,"def":2400,"level":6},
+"빙결계의 경마사":{"name":"빙결계의 경마사","race":"물족","attribute":"물","atk":1000,"def":400,"level":2},
+"순성한 용신 사피라":{"name":"순성한 용신 사피라","race":"드래곤족","attribute":"빛","atk":2550,"def":2450,"level":7},
+"대음양사 타오":{"name":"대음양사 타오","race":"환상마족","attribute":"땅","atk":1200,"def":900,"level":3},
+"화이트 사딘":{"name":"화이트 사딘","race":"어류족","attribute":"물","atk":800,"def":0,"level":2},
+"어둠의 수호신-다크 가디언":{"name":"어둠의 수호신-다크 가디언","race":"전사족","attribute":"어둠","atk":3800,"def":3800,"level":12},
+"고티스의 어스름 키프":{"name":"고티스의 어스름 키프","race":"어류족","attribute":"물","atk":0,"def":1500,"level":2},
+"빙결계의 검사 게오르기아스":{"name":"빙결계의 검사 게오르기아스","race":"비행야수족","attribute":"물","atk":2000,"def":1200,"level":6},
+"고티스의 월야 사이크스":{"name":"고티스의 월야 사이크스","race":"어류족","attribute":"물","atk":2400,"def":0,"level":6},
+"프린시퍼그":{"name":"프린시퍼그","race":"야수족","attribute":"땅","atk":0,"def":0,"level":1},
+"RR-누아르 레이니어스":{"name":"RR-누아르 레이니어스","race":"비행야수족","attribute":"어둠","atk":1600,"def":500,"level":4},
+"화이트 맘보":{"name":"화이트 맘보","race":"어류족","attribute":"물","atk":1200,"def":1000,"level":4},
+"순성의 용현성 사우라비스":{"name":"순성의 용현성 사우라비스","race":"드래곤족","attribute":"빛","atk":2600,"def":2800,"level":7},
+"환랍관의 사자":{"name":"환랍관의 사자","race":"환상마족","attribute":"화염","atk":800,"def":1800,"level":3}
 }
 export default cards;
