@@ -6505,6 +6505,23 @@ const cards = {
 "도라 도라":{"name":"도라 도라","race":"드래곤족","attribute":"화염","atk":400,"def":200,"level":3},
 "고블린라이더 폭음 클러터":{"name":"고블린라이더 폭음 클러터","race":"야수전사족","attribute":"화염","atk":1500,"def":0,"level":3},
 "고블린라이더 냉혈 미안다":{"name":"고블린라이더 냉혈 미안다","race":"악마족","attribute":"물","atk":1400,"def":0,"level":3},
-"고블린 강하 부대":{"name":"고블린 강하 부대","race":"전사족","attribute":"바람","atk":0,"def":2000,"level":4}
+"고블린 강하 부대":{"name":"고블린 강하 부대","race":"전사족","attribute":"바람","atk":0,"def":2000,"level":4},
+"크리슈너드 위치":{"name":"크리슈너드 위치","race":"마법사족","attribute":"빛","atk":1800,"def":700,"level":4},
+"무공포탑-디세이블래스터":{"name":"무공포탑-디세이블래스터","race":"기계족","attribute":"빛","atk":500,"def":2000,"level":5},
+"타임 리와인더":{"name":"타임 리와인더","race":"기계족","attribute":"빛","atk":1200,"def":2400,"level":8},
+"반전조관-콘버드":{"name":"반전조관-콘버드","race":"비행야수족","attribute":"땅","atk":1400,"def":2800,"level":8},
+"GP-어쌔시네이터":{"name":"GP-어쌔시네이터","race":"기계족","attribute":"땅","atk":1800,"def":800,"level":5},
+"주염왕 버스트 커스드":{"name":"주염왕 버스트 커스드","race":"악마족","attribute":"화염","atk":1600,"def":800,"level":3},
+"푸칫피칫버섯":{"name":"푸칫피칫버섯","race":"번개족","attribute":"빛","atk":1400,"def":0,"level":5},
+"장난의 대정령 할로":{"name":"장난의 대정령 할로","race":"악마족","attribute":"어둠","atk":0,"def":0,"level":4},
+"과자의 대정령 윈":{"name":"과자의 대정령 윈","race":"언데드족","attribute":"빛","atk":0,"def":0,"level":4},
+"에스트레인저 빅 뱅":{"name":"에스트레인저 빅 뱅","race":"전사족","attribute":"빛","atk":2100,"def":500,"level":5},
+"동요 차항아리":{"name":"동요 차항아리","race":"언데드족","attribute":"어둠","atk":500,"def":0,"level":3},
+"모코못코":{"name":"모코못코","race":"환상마족","attribute":"물","atk":300,"def":300,"level":1},
+"무카데의 진군":{"name":"무카데의 진군","race":"곤충족","attribute":"어둠","atk":1500,"def":500,"level":3},
+"유에프오라이트":{"name":"유에프오라이트","race":"환상마족","attribute":"화염","atk":1500,"def":1500,"level":8},
+"버서크 데몬":{"name":"버서크 데몬","race":"악마족","attribute":"어둠","atk":2000,"def":0,"level":6},
+"인페르니티 퀸":{"name":"인페르니티 퀸","race":"악마족","attribute":"어둠","atk":300,"def":900,"level":3},
+"종글구울의 환술사":{"name":"종글구울의 환술사","race":"환상마족","attribute":"어둠","atk":2000,"def":0,"level":4}
 }
 export default cards;
