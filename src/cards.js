@@ -6473,6 +6473,25 @@ const cards = {
 "RR-누아르 레이니어스":{"name":"RR-누아르 레이니어스","race":"비행야수족","attribute":"어둠","atk":1600,"def":500,"level":4},
 "화이트 맘보":{"name":"화이트 맘보","race":"어류족","attribute":"물","atk":1200,"def":1000,"level":4},
 "순성의 용현성 사우라비스":{"name":"순성의 용현성 사우라비스","race":"드래곤족","attribute":"빛","atk":2600,"def":2800,"level":7},
-"환랍관의 사자":{"name":"환랍관의 사자","race":"환상마족","attribute":"화염","atk":800,"def":1800,"level":3}
+"환랍관의 사자":{"name":"환랍관의 사자","race":"환상마족","attribute":"화염","atk":800,"def":1800,"level":3},
+"아로마릴리스-로잘리나":{"name":"아로마릴리스-로잘리나","race":"식물족","attribute":"어둠","atk":0,"def":0,"level":1},
+"앤틱 기어 다크 골렘":{"name":"앤틱 기어 다크 골렘","race":"기계족","attribute":"땅","atk":3000,"def":3000,"level":8},
+"뇌화의 마리코베":{"name":"뇌화의 마리코베","race":"식물족","attribute":"땅","atk":0,"def":0,"level":1},
+"드래곤 오브 라이트로드":{"name":"드래곤 오브 라이트로드","race":"드래곤족","attribute":"빛","atk":1500,"def":1300,"level":4},
+"앤틱 기어 스태추":{"name":"앤틱 기어 스태추","race":"기계족","attribute":"땅","atk":500,"def":800,"level":2},
+"인베이시브 에일리언 스피시즈-I.A.S":{"name":"인베이시브 에일리언 스피시즈-I.A.S","race":"파충류족","attribute":"빛","atk":1600,"def":0,"level":4},
+"에셋 마운티스":{"name":"에셋 마운티스","race":"곤충족","attribute":"빛","atk":2300,"def":2000,"level":7},
+"앤틱 기어 커맨더":{"name":"앤틱 기어 커맨더","race":"기계족","attribute":"땅","atk":500,"def":2000,"level":4},
+"라이트로드 데몬 바이스":{"name":"라이트로드 데몬 바이스","race":"악마족","attribute":"빛","atk":0,"def":1700,"level":4},
+"원환 요정 키클로스":{"name":"원환 요정 키클로스","race":"식물족","attribute":"바람","atk":1000,"def":1800,"level":4},
+"앤틱 기어 드래곤":{"name":"앤틱 기어 드래곤","race":"기계족","attribute":"땅","atk":500,"def":2500,"level":5},
+"뇌화의 히메쟈노메":{"name":"뇌화의 히메쟈노메","race":"곤충족","attribute":"땅","atk":1800,"def":0,"level":4},
+"레알 제넥스 운디네":{"name":"레알 제넥스 운디네","race":"물족","attribute":"물","atk":1700,"def":1100,"level":4},
+"앤틱 기어 탱커":{"name":"앤틱 기어 탱커","race":"기계족","attribute":"땅","atk":1300,"def":1300,"level":4},
+"뇌화의 야하즈카미키리":{"name":"뇌화의 야하즈카미키리","race":"곤충족","attribute":"빛","atk":1500,"def":0,"level":3},
+"하나요메닌교":{"name":"하나요메닌교","race":"마법사족","attribute":"땅","atk":0,"def":2100,"level":3},
+"레알 제넥스 튜링":{"name":"레알 제넥스 튜링","race":"마법사족","attribute":"어둠","atk":600,"def":600,"level":2},
+"뇌화의 요로이토카게":{"name":"뇌화의 요로이토카게","race":"파충류족","attribute":"어둠","atk":0,"def":2300,"level":4},
+"저주받은 하인 로드":{"name":"저주받은 하인 로드","race":"언데드족","attribute":"빛","atk":300,"def":200,"level":1}
 }
 export default cards;
