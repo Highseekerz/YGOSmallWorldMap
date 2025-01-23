@@ -6445,6 +6445,16 @@ const cards = {
 "마제스펙터 포큐파인":{"name":"마제스펙터 포큐파인","race":"마법사족","attribute":"바람","atk":1500,"def":1500,"level":4},
 "가이스토치 골렘":{"name":"가이스토치 골렘","race":"악마족","attribute":"어둠","atk":3000,"def":300,"level":8},
 "에스프릿 셰이드-희공작":{"name":"에스프릿 셰이드-희공작","race":"비행야수족","attribute":"바람","atk":1500,"def":2000,"level":4},
-"에스프릿 셰이드-언공작":{"name":"에스프릿 셰이드-언공작","race":"비행야수족","attribute":"바람","atk":2000,"def":1500,"level":4}
+"에스프릿 셰이드-언공작":{"name":"에스프릿 셰이드-언공작","race":"비행야수족","attribute":"바람","atk":2000,"def":1500,"level":4},
+"토이 솔저":{"name":"토이 솔저","race":"전사족","attribute":"빛","atk":1500,"def":1000,"level":4},
+"엘렉트로 거너":{"name":"엘렉트로 거너","race":"기계족","attribute":"화염","atk":1800,"def":1400,"level":4},
+"날개 크리보 LV6":{"name":"날개 크리보 LV6","race":"천사족","attribute":"빛","atk":300,"def":200,"level":6},
+"빛나는 별의 용":{"name":"빛나는 별의 용","race":"드래곤족","attribute":"빛","atk":0,"def":0,"level":4},
+"토이 탱크":{"name":"토이 탱크","race":"기계족","attribute":"빛","atk":1000,"def":2100,"level":4},
+"전극수 카티온":{"name":"전극수 카티온","race":"번개족","attribute":"빛","atk":300,"def":100,"level":2},
+"전극수 아니온":{"name":"전극수 아니온","race":"번개족","attribute":"빛","atk":300,"def":100,"level":2},
+"미라와 매치노코":{"name":"미라와 매치노코","race":"마법사족","attribute":"화염","atk":0,"def":0,"level":1},
+"홍련왕 플레임 크라임":{"name":"홍련왕 플레임 크라임","race":"악마족","attribute":"화염","atk":1700,"def":300,"level":3},
+"디브전":{"name":"디브전","race":"기계족","attribute":"화염","atk":200,"def":200,"level":2}
 }
 export default cards;
