@@ -6492,6 +6492,19 @@ const cards = {
 "하나요메닌교":{"name":"하나요메닌교","race":"마법사족","attribute":"땅","atk":0,"def":2100,"level":3},
 "레알 제넥스 튜링":{"name":"레알 제넥스 튜링","race":"마법사족","attribute":"어둠","atk":600,"def":600,"level":2},
 "뇌화의 요로이토카게":{"name":"뇌화의 요로이토카게","race":"파충류족","attribute":"어둠","atk":0,"def":2300,"level":4},
-"저주받은 하인 로드":{"name":"저주받은 하인 로드","race":"언데드족","attribute":"빛","atk":300,"def":200,"level":1}
+"저주받은 하인 로드":{"name":"저주받은 하인 로드","race":"언데드족","attribute":"빛","atk":300,"def":200,"level":1},
+"정령수사 레라":{"name":"정령수사 레라","race":"사이킥족","attribute":"빛","atk":100,"def":2000,"level":1},
+"천배룡 파이도라":{"name":"천배룡 파이도라","race":"드래곤족","attribute":"화염","atk":1700,"def":1000,"level":3},
+"천배룡 츈도라":{"name":"천배룡 츈도라","race":"드래곤족","attribute":"화염","atk":1500,"def":1000,"level":4},
+"환록의 천배룡":{"name":"환록의 천배룡","race":"드래곤족","attribute":"화염","atk":0,"def":1000,"level":3},
+"비룡지겸":{"name":"비룡지겸","race":"전사족","attribute":"빛","atk":1300,"def":1550,"level":3},
+"호릉지현":{"name":"호릉지현","race":"전사족","attribute":"빛","atk":800,"def":2000,"level":3},
+"고블린라이더 특공 다그":{"name":"고블린라이더 특공 다그","race":"전사족","attribute":"땅","atk":1600,"def":0,"level":3},
+"고블린라이더 마하 부웅":{"name":"고블린라이더 마하 부웅","race":"전사족","attribute":"바람","atk":1300,"def":0,"level":3},
+"천배룡 파도라":{"name":"천배룡 파도라","race":"드래곤족","attribute":"화염","atk":1600,"def":1000,"level":3},
+"도라 도라":{"name":"도라 도라","race":"드래곤족","attribute":"화염","atk":400,"def":200,"level":3},
+"고블린라이더 폭음 클러터":{"name":"고블린라이더 폭음 클러터","race":"야수전사족","attribute":"화염","atk":1500,"def":0,"level":3},
+"고블린라이더 냉혈 미안다":{"name":"고블린라이더 냉혈 미안다","race":"악마족","attribute":"물","atk":1400,"def":0,"level":3},
+"고블린 강하 부대":{"name":"고블린 강하 부대","race":"전사족","attribute":"바람","atk":0,"def":2000,"level":4}
 }
 export default cards;
