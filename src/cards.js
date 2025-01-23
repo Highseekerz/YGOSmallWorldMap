@@ -6553,6 +6553,26 @@ const cards = {
 "사이코 프로세서":{"name":"사이코 프로세서","race":"사이킥족","attribute":"어둠","atk":0,"def":1500,"level":3},
 "기믹 퍼핏-킬러 나이트":{"name":"기믹 퍼핏-킬러 나이트","race":"기계족","attribute":"어둠","atk":1800,"def":500,"level":4},
 "마지코로이다르 조르":{"name":"마지코로이다르 조르","race":"물족","attribute":"물","atk":400,"def":300,"level":2},
-"기믹 퍼핏-캐틀 스크림":{"name":"기믹 퍼핏-캐틀 스크림","race":"기계족","attribute":"어둠","atk":2000,"def":2000,"level":8}
+"기믹 퍼핏-캐틀 스크림":{"name":"기믹 퍼핏-캐틀 스크림","race":"기계족","attribute":"어둠","atk":2000,"def":2000,"level":8},
+"드라이트론-메테오니스=DAD":{"name":"드라이트론-메테오니스=DAD","race":"기계족","attribute":"빛","atk":5000,"def":5000,"level":12},
+"멸망룡 베이도스":{"name":"멸망룡 베이도스","race":"화염족","attribute":"어둠","atk":2800,"def":1500,"level":9},
+"회멸한 도시의 무녀":{"name":"회멸한 도시의 무녀","race":"화염족","attribute":"어둠","atk":1200,"def":1300,"level":4},
+"드라이트론-νII":{"name":"드라이트론-νII","race":"기계족","attribute":"빛","atk":2000,"def":0,"level":1},
+"지천의 마왕 미싱 배로우즈":{"name":"지천의 마왕 미싱 배로우즈","race":"악마족","attribute":"빛","atk":3100,"def":2900,"level":10},
+"마루챠미 푸루리아":{"name":"마루챠미 푸루리아","race":"물족","attribute":"물","atk":100,"def":600,"level":4},
+"마루챠미 후와로스":{"name":"마루챠미 후와로스","race":"비행야수족","attribute":"바람","atk":100,"def":600,"level":4},
+"월아룡-크레센트 드래곤":{"name":"월아룡-크레센트 드래곤","race":"드래곤족","attribute":"어둠","atk":2200,"def":2350,"level":7},
+"파이라이트 나이트":{"name":"파이라이트 나이트","race":"전사족","attribute":"땅","atk":2000,"def":0,"level":5},
+"광애의 용랑 아이자":{"name":"광애의 용랑 아이자","race":"드래곤족","attribute":"화염","atk":1500,"def":0,"level":4},
+"라이트엔드 서플리메이션 드래곤":{"name":"라이트엔드 서플리메이션 드래곤","race":"드래곤족","attribute":"빛","atk":2600,"def":2100,"level":8},
+"다크엔드 이배퍼레이션 드래곤":{"name":"다크엔드 이배퍼레이션 드래곤","race":"드래곤족","attribute":"어둠","atk":2600,"def":2100,"level":8},
+"회멸한 도시의 왕":{"name":"회멸한 도시의 왕","race":"화염족","attribute":"어둠","atk":1400,"def":2700,"level":8},
+"회멸한 도시의 영웅":{"name":"회멸한 도시의 영웅","race":"화염족","attribute":"어둠","atk":2600,"def":1200,"level":7},
+"디노베이더 도쿠스":{"name":"디노베이더 도쿠스","race":"공룡족","attribute":"땅","atk":1500,"def":2200,"level":6},
+"밀림에 숨은 자":{"name":"밀림에 숨은 자","race":"악마족","attribute":"어둠","atk":2500,"def":1800,"level":8},
+"향마종 트라이콘":{"name":"향마종 트라이콘","race":"악마족","attribute":"어둠","atk":0,"def":0,"level":2},
+"회멸한 도시의 주술사":{"name":"회멸한 도시의 주술사","race":"화염족","attribute":"어둠","atk":1300,"def":1200,"level":4},
+"회멸한 도시의 선현":{"name":"회멸한 도시의 선현","race":"화염족","attribute":"어둠","atk":1700,"def":100,"level":4},
+"갑옷기사룡-나이트 암드 드래곤-":{"name":"갑옷기사룡-나이트 암드 드래곤-","race":"드래곤족","attribute":"바람","atk":1400,"def":1900,"level":3}
 }
 export default cards;
