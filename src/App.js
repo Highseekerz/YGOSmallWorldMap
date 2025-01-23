@@ -5,7 +5,7 @@ import cardDB from './cardDB';
 
 const cards = cardDB.get();
 
-const recentUpdate = '로드 오브 디멘션'
+const recentUpdate = '이터널 파트너즈'
 
 function App() {
 

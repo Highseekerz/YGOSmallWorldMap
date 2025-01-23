@@ -6430,6 +6430,21 @@ const cards = {
 "데모네 바르모니카":{"name":"데모네 바르모니카","race":"악마족","attribute":"빛","atk":1200,"def":2100,"level":4},
 "펜듈럼 위치":{"name":"펜듈럼 위치","race":"마법사족","attribute":"땅","atk":1500,"def":800,"level":3},
 "SPYRAL-더블페이크":{"name":"SPYRAL-더블페이크","race":"악마족","attribute":"빛","atk":1400,"def":600,"level":4},
-"염왕수 하누만":{"name":"염왕수 하누만","race":"야수전사족","attribute":"화염","atk":1600,"def":200,"level":4}
+"염왕수 하누만":{"name":"염왕수 하누만","race":"야수전사족","attribute":"화염","atk":1600,"def":200,"level":4},
+"센츄리온 프리메라":{"name":"센츄리온 프리메라","race":"마법사족","attribute":"빛","atk":1600,"def":1600,"level":4},
+"일렉황다랑어":{"name":"일렉황다랑어","race":"번개족","attribute":"빛","atk":800,"def":700,"level":4},
+"명세계신-네페르어비스":{"name":"명세계신-네페르어비스","race":"파충류족","attribute":"어둠","atk":2200,"def":3100,"level":10},
+"센츄리온 트루디아":{"name":"센츄리온 트루디아","race":"화염족","attribute":"어둠","atk":1000,"def":2000,"level":4},
+"스피릿 오브 유벨":{"name":"스피릿 오브 유벨","race":"악마족","attribute":"어둠","atk":0,"def":0,"level":10},
+"새크리파이스 데먼 로터스":{"name":"새크리파이스 데먼 로터스","race":"악마족","attribute":"어둠","atk":0,"def":0,"level":1},
+"환마의 소환신":{"name":"환마의 소환신","race":"악마족","attribute":"어둠","atk":0,"def":0,"level":7},
+"아르카나 포스 XV-더 데블":{"name":"아르카나 포스 XV-더 데블","race":"천사족","attribute":"빛","atk":2500,"def":2500,"level":7},
+"센츄리온 에메트VI":{"name":"센츄리온 에메트VI","race":"기계족","attribute":"땅","atk":2000,"def":3000,"level":8},
+"헬그레이브 스쿼머":{"name":"헬그레이브 스쿼머","race":"악마족","attribute":"어둠","atk":0,"def":0,"level":1},
+"센츄리온 가고일II":{"name":"센츄리온 가고일 II","race":"드래곤족","attribute":"어둠","atk":2000,"def":3000,"level":8},
+"마제스펙터 포큐파인":{"name":"마제스펙터 포큐파인","race":"마법사족","attribute":"바람","atk":1500,"def":1500,"level":4},
+"가이스토치 골렘":{"name":"가이스토치 골렘","race":"악마족","attribute":"어둠","atk":3000,"def":300,"level":8},
+"에스프릿 셰이드-희공작":{"name":"에스프릿 셰이드-희공작","race":"비행야수족","attribute":"바람","atk":1500,"def":2000,"level":4},
+"에스프릿 셰이드-언공작":{"name":"에스프릿 셰이드-언공작","race":"비행야수족","attribute":"바람","atk":2000,"def":1500,"level":4}
 }
 export default cards;
