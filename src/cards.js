@@ -6573,6 +6573,16 @@ const cards = {
 "향마종 트라이콘":{"name":"향마종 트라이콘","race":"악마족","attribute":"어둠","atk":0,"def":0,"level":2},
 "회멸한 도시의 주술사":{"name":"회멸한 도시의 주술사","race":"화염족","attribute":"어둠","atk":1300,"def":1200,"level":4},
 "회멸한 도시의 선현":{"name":"회멸한 도시의 선현","race":"화염족","attribute":"어둠","atk":1700,"def":100,"level":4},
-"갑옷기사룡-나이트 암드 드래곤-":{"name":"갑옷기사룡-나이트 암드 드래곤-","race":"드래곤족","attribute":"바람","atk":1400,"def":1900,"level":3}
+"갑옷기사룡-나이트 암드 드래곤-":{"name":"갑옷기사룡-나이트 암드 드래곤-","race":"드래곤족","attribute":"바람","atk":1400,"def":1900,"level":3},
+"천년의 잠에서 깨어난 원시인":{"name":"천년의 잠에서 깨어난 원시인","race":"야수전사족","attribute":"땅","atk":2750,"def":2500,"level":8},
+"마를 새기는 데먼스미스":{"name":"마를 새기는 데먼스미스","race":"악마족","attribute":"빛","atk":1800,"def":2400,"level":6},
+"하얀 숲의 아자미나 리제트":{"name":"하얀 숲의 아자미나 리제트","race":"환상마족","attribute":"빛","atk":0,"def":0,"level":2},
+"천년의 보물을 지키는 골렘":{"name":"천년의 보물을 지키는 골렘","race":"암석족","attribute":"땅","atk":2000,"def":2200,"level":6},
+"천년왕조의 방패":{"name":"천년왕조의 방패","race":"전사족","attribute":"땅","atk":0,"def":3000,"level":5},
+"마음이 깃든 푸른 눈":{"name":"마음이 깃든 푸른 눈","race":"드래곤족","attribute":"빛","atk":3000,"def":2500,"level":8},
+"밀레니엄문 메이든":{"name":"밀레니엄문 메이든","race":"환상마족","attribute":"빛","atk":1500,"def":1300,"level":4},
+"밀레니엄 앱솔루터":{"name":"밀레니엄 앱솔루터","race":"환상마족","attribute":"바람","atk":1300,"def":1400,"level":4},
+"브루미":{"name":"브루미","race":"마법사족","attribute":"빛","atk":700,"def":700,"level":2},
+"아자미나의 요마":{"name":"아자미나의 요마","race":"환상마족","attribute":"어둠","atk":2500,"def":2000,"level":8}
 }
 export default cards;
