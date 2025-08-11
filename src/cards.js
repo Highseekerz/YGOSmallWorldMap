@@ -6652,6 +6652,23 @@ const cards = {
 "이블 히어로 헬 라이더":{"name":"이블 히어로 헬 라이더","race":"악마족","attribute":"바람","atk":2100,"def":800,"level":6},
 "굉해황 포세이도라":{"name":"굉해황 포세이도라","race":"해룡족","attribute":"물","atk":2800,"def":1600,"level":7},
 "대홍연 마투사":{"name":"대홍연 마투사","race":"전사족","attribute":"화염","atk":2100,"def":1800,"level":8},
-"이블 히어로 비셔스 클로즈":{"name":"이블 히어로 비셔스 클로즈","race":"악마족","attribute":"어둠","atk":2500,"def":2500,"level":7}
+"이블 히어로 비셔스 클로즈":{"name":"이블 히어로 비셔스 클로즈","race":"악마족","attribute":"어둠","atk":2500,"def":2500,"level":7},
+"창성룡화-광파":{"name":"창성룡화-광파","race":"드래곤족","attribute":"빛","atk":3500,"def":2500,"level":10},
+"미미구르 마스터":{"name":"미미구르 마스터","race":"언데드족","attribute":"땅","atk":1800,"def":1200,"level":4},
+"크리스트론-크리스탈로스":{"name":"크리스트론-크리스탈로스","race":"기계족","attribute":"물","atk":800,"def":2000,"level":2},
+"미미구르 드래곤":{"name":"미미구르 드래곤","race":"언데드족","attribute":"땅","atk":500,"def":2000,"level":1},
+"미미구르 데몬":{"name":"미미구르 데몬","race":"악마족","attribute":"땅","atk":0,"def":1900,"level":1},
+"공롱룡화-외파":{"name":"공롱룡화-외파","race":"공룡족","attribute":"땅","atk":3000,"def":1200,"level":10},
+"해롱룡화-연파":{"name":"해롱룡화-연파","race":"해룡족","attribute":"물","atk":3000,"def":2000,"level":10},
+"환롱룡화-패파":{"name":"환롱룡화-패파","race":"환룡족","attribute":"바람","atk":3000,"def":1500,"level":10},
+"미미구르 슬라임":{"name":"미미구르 슬라임","race":"언데드족","attribute":"땅","atk":400,"def":500,"level":1},
+"크리스트론-설퍼돌":{"name":"크리스트론-설퍼돌","race":"기계족","attribute":"물","atk":1900,"def":2250,"level":5},
+"전성룡화-암파":{"name":"전성룡화-암파","race":"드래곤족","attribute":"어둠","atk":3000,"def":2100,"level":10},
+"미미구르 케로베로스":{"name":"미미구르 케로베로스","race":"언데드족","attribute":"땅","atk":400,"def":1800,"level":1},
+"미미구르 페어리":{"name":"미미구르 페어리","race":"언데드족","attribute":"땅","atk":100,"def":100,"level":1},
+"머티리어크톨 젭토윙":{"name":"머티리어크톨 젭토윙","race":"드래곤족","attribute":"화염","atk":0,"def":0,"level":3},
+"미미구르 아머":{"name":"미미구르 아머","race":"언데드족","attribute":"땅","atk":600,"def":1500,"level":1},
+"머티리어크톨 엑사렙트":{"name":"머티리어크톨 엑사렙트","race":"드래곤족","attribute":"물","atk":1500,"def":1500,"level":3},
+"프리마 머티리어크톨":{"name":"프리마 머티리어크톨","race":"드래곤족","attribute":"빛","atk":0,"def":0,"level":3}
 }
 export default cards;
