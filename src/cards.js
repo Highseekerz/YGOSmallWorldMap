@@ -6636,6 +6636,22 @@ const cards = {
 "뚜루 푸르푸른":{"name":"뚜루 푸르푸른","race":"물족","attribute":"물","atk":450,"def":500,"level":2},
 "뉴비!":{"name":"뉴비!","race":"곤충족","attribute":"빛","atk":0,"def":0,"level":2},
 "컷 인 샤크":{"name":"컷 인 샤크","race":"어류족","attribute":"물","atk":0,"def":2000,"level":5},
-"메멘토 카쿠타스":{"name":"메멘토 카쿠타스","race":"물족","attribute":"물","atk":1700,"def":1400,"level":5}
+"메멘토 카쿠타스":{"name":"메멘토 카쿠타스","race":"물족","attribute":"물","atk":1700,"def":1400,"level":5},
+"홍루의 마 라크리모사":{"name":"홍루의 마 라크리모사","race":"악마족","attribute":"빛","atk":1200,"def":1200,"level":4},
+"머메일의 심영대":{"name":"머메일의 심영대","race":"해룡족","attribute":"물","atk":0,"def":1900,"level":3},
+"수령매사 에리아":{"name":"수령매사 에리아","race":"마법사족","attribute":"물","atk":1850,"def":1500,"level":5},
+"ARG☆S-영관의 아드라":{"name":"ARG☆S-영관의 아드라","race":"전사족","attribute":"땅","atk":1800,"def":1800,"level":4},
+"No-P.U.N.K. 라이징 스케일":{"name":"No-P.U.N.K. 라이징 스케일","race":"해룡족","attribute":"물","atk":2400,"def":2400,"level":8},
+"해황정 어비스라인":{"name":"해황정 어비스라인","race":"물족","attribute":"물","atk":1600,"def":1600,"level":3},
+"버터플라이 피시":{"name":"버터플라이 피시","race":"어류족","attribute":"물","atk":700,"def":400,"level":3},
+"QQ 에니아곤":{"name":"QQ 에니아곤","race":"공룡족","attribute":"화염","atk":900,"def":900,"level":9},
+"이블 히어로 톡식 버블":{"name":"이블 히어로 톡식 버블","race":"악마족","attribute":"물","atk":800,"def":1200,"level":4},
+"이블 히어로 데스 프리즌":{"name":"이블 히어로 데스 프리즌","race":"암석족","attribute":"빛","atk":1700,"def":1100,"level":4},
+"ARG☆S-열투의 파르테":{"name":"ARG☆S-열투의 파르테","race":"전사족","attribute":"땅","atk":1400,"def":1400,"level":4},
+"초인전-망토맨":{"name":"초인전-망토맨","race":"사이킥족","attribute":"빛","atk":2400,"def":1200,"level":7},
+"이블 히어로 헬 라이더":{"name":"이블 히어로 헬 라이더","race":"악마족","attribute":"바람","atk":2100,"def":800,"level":6},
+"굉해황 포세이도라":{"name":"굉해황 포세이도라","race":"해룡족","attribute":"물","atk":2800,"def":1600,"level":7},
+"대홍연 마투사":{"name":"대홍연 마투사","race":"전사족","attribute":"화염","atk":2100,"def":1800,"level":8},
+"이블 히어로 비셔스 클로즈":{"name":"이블 히어로 비셔스 클로즈","race":"악마족","attribute":"어둠","atk":2500,"def":2500,"level":7}
 }
 export default cards;
