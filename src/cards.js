@@ -6683,7 +6683,7 @@ const cards = {
 "M∀LICE<P>Dormouse":{"name":"M∀LICE<P>Dormouse","race":"사이버스족","attribute":"어둠","atk":900,"def":300,"level":3},
 "천위룡-수르야":{"name":"천위룡-수르야","race":"환룡족","attribute":"빛","atk":1600,"def":0,"level":4},
 "리버레이터 에토":{"name":"리버레이터 에토","race":"파충류족","attribute":"어둠","atk":4000,"def":0,"level":8},
-"M∀LICE<P>March Hare":{"name":"","race":"","attribute":"","atk":,"def":,"level":},
+"M∀LICE<P>March Hare":{"name":"M∀LICE<P>March Hare","race":"사이버스족","attribute":"어둠","atk":600,"def":300,"level":3},
 "모터 카이자르":{"name":"모터 카이자르","race":"기계족","attribute":"어둠","atk":2100,"def":1200,"level":5},
 "B·F-맹격의 레이피어":{"name":"B·F-맹격의 레이피어","race":"곤충족","attribute":"바람","atk":1900,"def":0,"level":5},
 "M∀LICE<P>Cheshire Cat":{"name":"M∀LICE<P>Cheshire Cat","race":"사이버스족","attribute":"어둠","atk":1500,"def":300,"level":3},
@@ -6693,6 +6693,22 @@ const cards = {
 "암흑해룡-드라이어글":{"name":"암흑해룡-드라이어글","race":"해룡족","attribute":"물","atk":2100,"def":3100,"level":10},
 "운부의 텐푸라-EBI":{"name":"운부의 텐푸라-EBI","race":"물족","attribute":"화염","atk":1600,"def":0,"level":3},
 "파레노프시스터즈":{"name":"파레노프시스터즈","race":"천사족","attribute":"빛","atk":300,"def":300,"level":1},
-"템플릿 스킵퍼":{"name":"템플릿 스킵퍼","race":"사이버스족","attribute":"어둠","atk":0,"def":0,"level":1}
+"템플릿 스킵퍼":{"name":"템플릿 스킵퍼","race":"사이버스족","attribute":"어둠","atk":0,"def":0,"level":1},
+"스워드 라이제올":{"name":"스워드 라이제올","race":"번개족","attribute":"화염","atk":1500,"def":200,"level":4},
+"아이스 라이제올":{"name":"아이스 라이제올","race":"화염족","attribute":"빛","atk":1700,"def":1000,"level":4},
+"엑스 라이제올":{"name":"엑스 라이제올","race":"화염족","attribute":"빛","atk":500,"def":2000,"level":4},
+"마루챠미 냐루스":{"name":"마루챠미 냐루스","race":"야수족","attribute":"땅","atk":100,"def":600,"level":4},
+"여섯 무사의 파계승":{"name":"여섯 무사의 파계승","race":"전사족","attribute":"어둠","atk":500,"def":0,"level":3},
+"노드 라이제올":{"name":"노드 라이제올","race":"번개족","attribute":"화염","atk":1400,"def":1600,"level":4},
+"마굉신수 베히르모스":{"name":"마굉신수 베히르모스","race":"야수족","attribute":"빛","atk":1000,"def":600,"level":2},
+"쥬락 메가로":{"name":"쥬락 메가로","race":"공룡족","attribute":"화염","atk":500,"def":1300,"level":1},
+"쥬락 스티고":{"name":"쥬락 스티고","race":"공룡족","attribute":"화염","atk":1700,"def":900,"level":4},
+"스타 라이제올":{"name":"스타 라이제올","race":"화염족","attribute":"빛","atk":1800,"def":0,"level":4},
+"SR 크래커넬":{"name":"SR 크래커넬","race":"기계족","attribute":"바람","atk":200,"def":1800,"level":2},
+"SR 윙 싱크론":{"name":"SR 윙 싱크론","race":"기계족","attribute":"바람","atk":1500,"def":1000,"level":5},
+"여섯 무사의 지남번":{"name":"여섯 무사의 지남번","race":"전사족","attribute":"땅","atk":200,"def":1200,"level":2},
+"팔마 라이제올":{"name":"팔마 라이제올","race":"번개족","attribute":"화염","atk":1200,"def":2400,"level":4},
+"미니멀리언":{"name":"미니멀리언","race":"사이킥족","attribute":"물","atk":100,"def":100,"level":4},
+"스워드서밋-탈와르 데몬":{"name":"스워드서밋-탈와르 데몬","race":"악마족","attribute":"어둠","atk":2400,"def":2150,"level":7}
 }
 export default cards;
