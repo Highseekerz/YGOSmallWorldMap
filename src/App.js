@@ -5,7 +5,7 @@ import cardDB from './cardDB';
 
 const cards = cardDB.get();
 
-const recentUpdate = '더 퍼페추얼 메이즈'
+const recentUpdate = '배틀 오브 데스티니'
 
 function App() {
 

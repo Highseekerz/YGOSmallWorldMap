@@ -6669,6 +6669,15 @@ const cards = {
 "머티리어크톨 젭토윙":{"name":"머티리어크톨 젭토윙","race":"드래곤족","attribute":"화염","atk":0,"def":0,"level":3},
 "미미구르 아머":{"name":"미미구르 아머","race":"언데드족","attribute":"땅","atk":600,"def":1500,"level":1},
 "머티리어크톨 엑사렙트":{"name":"머티리어크톨 엑사렙트","race":"드래곤족","attribute":"물","atk":1500,"def":1500,"level":3},
-"프리마 머티리어크톨":{"name":"프리마 머티리어크톨","race":"드래곤족","attribute":"빛","atk":0,"def":0,"level":3}
+"프리마 머티리어크톨":{"name":"프리마 머티리어크톨","race":"드래곤족","attribute":"빛","atk":0,"def":0,"level":3},
+"DD 카운트 서베이어":{"name":"DD 카운트 서베이어","race":"악마족","attribute":"어둠","atk":2000,"def":2000,"level":8},
+"아르카나 포스 V-더 하이어로펀트":{"name":"아르카나 포스 V-더 하이어로펀트","race":"천사족","attribute":"빛","atk":1500,"def":1500,"level":4},
+"아르카나 포스 XIX-더 선":{"name":"아르카나 포스 XIX-더 선","race":"천사족","attribute":"빛","atk":2900,"def":2900,"level":7},
+"검투수 기스테르":{"name":"검투수 기스테르","race":"야수족","attribute":"땅","atk":1200,"def":2000,"level":3},
+"DD 스케일 서베이어":{"name":"DD 스케일 서베이어","race":"악마족","attribute":"어둠","atk":0,"def":1000,"level":2},
+"DD 엑스트라 서베이어":{"name":"DD 엑스트라 서베이어","race":"악마족","attribute":"어둠","atk":1000,"def":0,"level":5},
+"돌앗냥":{"name":"돌앗냥","race":"야수족","attribute":"땅","atk":200,"def":200,"level":2},
+"슬레이브베어":{"name":"슬레이브베어","race":"야수족","attribute":"땅","atk":900,"def":600,"level":4},
+"표리의 여신":{"name":"표리의 여신","race":"천사족","attribute":"빛","atk":950,"def":700,"level":3}
 }
 export default cards;
