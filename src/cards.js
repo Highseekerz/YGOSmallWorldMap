@@ -6747,6 +6747,18 @@ const cards = {
 "요정포 스포어":{"name":"요정포 스포어","race":"식물족","attribute":"빛","atk":400,"def":800,"level":1},
 "요정령 크리본":{"name":"요정령 크리본","race":"천사족","attribute":"빛","atk":200,"def":300,"level":1},
 "사악룡 이블 나이트 드래곤":{"name":"사악룡 이블 나이트 드래곤","race":"드래곤족","attribute":"어둠","atk":2350,"def":2400,"level":7},
-"미츠루기노미코 오우스":{"name":"미츠루기노미코 오우스","race":"파충류족","attribute":"어둠","atk":2000,"def":2000,"level":8}
+"미츠루기노미코 오우스":{"name":"미츠루기노미코 오우스","race":"파충류족","attribute":"어둠","atk":2000,"def":2000,"level":8},
+"사이버 다크 브룸":{"name":"사이버 다크 브룸","race":"기계족","attribute":"어둠","atk":800,"def":2100,"level":5},
+"결장룡 티스티나":{"name":"결장룡 티스티나","race":"물족","attribute":"어둠","atk":2000,"def":0,"level":10},
+"초량요정 제탕":{"name":"초량요정 제탕","race":"언데드족","attribute":"어둠","atk":0,"def":0,"level":1},
+"눈동자의 마녀 모르가나":{"name":"눈동자의 마녀 모르가나","race":"마법사족","attribute":"어둠","atk":1500,"def":2100,"level":4},
+"초거대전함 메탈 슬레이브":{"name":"초거대전함 메탈 슬레이브","race":"기계족","attribute":"어둠","atk":3100,"def":3100,"level":11},
+"셰프 드 누밸즈":{"name":"셰프 드 누밸즈","race":"악마족","attribute":"빛","atk":1000,"def":1850,"level":3},
+"드래곤메이드 슈테른":{"name":"드래곤메이드 슈테른","race":"드래곤족","attribute":"어둠","atk":2800,"def":1800,"level":9},
+"사이버 요르문간드":{"name":"사이버 요르문간드","race":"기계족","attribute":"빛","atk":1000,"def":2100,"level":5},
+"초량사 블랙레이어":{"name":"초량사 블랙레이어","race":"언데드족","attribute":"어둠","atk":2400,"def":2400,"level":7},
+"거대전함 데린저 코어":{"name":"거대전함 데린저 코어","race":"기계족","attribute":"빛","atk":1900,"def":3000,"level":10},
+"빅 바이퍼 Type-L":{"name":"빅 바이퍼 Type-L","race":"기계족","attribute":"빛","atk":1200,"def":800,"level":4},
+"원모어 더 저주받은 하인":{"name":"원모어 더 저주받은 하인","race":"언데드족","attribute":"어둠","atk":300,"def":200,"level":1}
 }
 export default cards;
